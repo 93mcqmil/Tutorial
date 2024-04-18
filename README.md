@@ -12,5 +12,5 @@ The tutorial is organized into multiple steps, each focusing on a specific aspec
 Contributions to improve this tutorial are welcome! If you find any issues or have suggestions for enhancements, please open an issue or submit a pull request.
 
 ## Getting started
-git clone https://github.com/your-username/react-router-tutorial.git
+git clone https://github.com/93mcqmil/Tutorial.git
 npm install or yarn
