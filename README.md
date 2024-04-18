@@ -13,4 +13,6 @@ Contributions to improve this tutorial are welcome! If you find any issues or ha
 
 ## Getting started
 git clone https://github.com/93mcqmil/Tutorial.git
-npm install or yarn
+npm install
+ or
+yarn install
